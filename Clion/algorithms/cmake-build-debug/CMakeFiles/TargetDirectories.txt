@@ -1,0 +1,10 @@
+/Users/isajgordeev/Desktop/C++_Coding/Clion/algorithms/cmake-build-debug/CMakeFiles/goblins.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/algorithms/cmake-build-debug/CMakeFiles/123.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/algorithms/cmake-build-debug/CMakeFiles/ad.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/algorithms/cmake-build-debug/CMakeFiles/RBT-3.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/algorithms/cmake-build-debug/CMakeFiles/RBT-2.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/algorithms/cmake-build-debug/CMakeFiles/RBT.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/algorithms/cmake-build-debug/CMakeFiles/foursum.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/algorithms/cmake-build-debug/CMakeFiles/algorithms.dir

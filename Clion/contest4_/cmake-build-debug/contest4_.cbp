@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="contest4_"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main_4">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/main_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 main_4"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main_4/fast">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/main_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 main_4/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1/fast">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B_for_ph">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/B_for_ph" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 B_for_ph"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B_for_ph/fast">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/B_for_ph" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 B_for_ph/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="last_chance_for_B">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/last_chance_for_B" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 last_chance_for_B"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="last_chance_for_B/fast">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/last_chance_for_B" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 last_chance_for_B/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/B" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 B"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B/fast">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/B" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 B/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stack_">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/stack_" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 stack_"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stack_/fast">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/stack_" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 stack_/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="E">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/E" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 E"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="E/fast">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/E" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 E/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main-5">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/main-5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 main-5"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main-5/fast">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/main-5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 main-5/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 C"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C/fast">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 C/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Cpp">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 Cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Cpp/fast">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 Cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main-4">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/main-4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 main-4"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main-4/fast">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/main-4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 main-4/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stack1">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/stack1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 stack1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stack1/fast">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/stack1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 stack1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="D">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 D"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="D/fast">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 D/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="123">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/123" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 123"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="123/fast">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/123" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 123/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B2">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/B2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 B2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B2/fast">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/B2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 B2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1234">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/1234" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 1234"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1234/fast">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/1234" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 1234/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="F">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/F" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 F"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="F/fast">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/F" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 F/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B1">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/B1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 B1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B1/fast">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/B1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 B1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="contest4_">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/contest4_" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 contest4_"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="contest4_/fast">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/contest4_" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 contest4_/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/1.cpp">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/123.cpp">
+			<Option target="123"/>
+		</Unit>
+		<Unit filename="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/1234.cpp">
+			<Option target="1234"/>
+		</Unit>
+		<Unit filename="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/B.cpp">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/B1.cpp">
+			<Option target="B1"/>
+		</Unit>
+		<Unit filename="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/B2.cpp">
+			<Option target="B2"/>
+		</Unit>
+		<Unit filename="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/B_for_ph.cpp">
+			<Option target="B_for_ph"/>
+		</Unit>
+		<Unit filename="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/Cpp.cpp">
+			<Option target="Cpp"/>
+		</Unit>
+		<Unit filename="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/D.cpp">
+			<Option target="D"/>
+		</Unit>
+		<Unit filename="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/E.cpp">
+			<Option target="E"/>
+		</Unit>
+		<Unit filename="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/F.cpp">
+			<Option target="F"/>
+		</Unit>
+		<Unit filename="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/last_chance_for_B.cpp">
+			<Option target="last_chance_for_B"/>
+		</Unit>
+		<Unit filename="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/main.cpp">
+			<Option target="contest4_"/>
+		</Unit>
+		<Unit filename="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/main_4.cpp">
+			<Option target="main_4"/>
+		</Unit>
+		<Unit filename="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/stack.cpp">
+			<Option target="C"/>
+		</Unit>
+		<Unit filename="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/stack1.cpp">
+			<Option target="stack1"/>
+		</Unit>
+		<Unit filename="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/stack_.cpp">
+			<Option target="stack_"/>
+		</Unit>
+		<Unit filename="/Users/isajgordeev/Downloads/main-4.cpp">
+			<Option target="main-4"/>
+		</Unit>
+		<Unit filename="/Users/isajgordeev/Downloads/main-5.cpp">
+			<Option target="main-5"/>
+		</Unit>
+		<Unit filename="/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

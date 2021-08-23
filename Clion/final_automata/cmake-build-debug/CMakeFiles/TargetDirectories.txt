@@ -1,0 +1,7 @@
+/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/CMakeFiles/C.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/CMakeFiles/D.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/CMakeFiles/DKA.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/CMakeFiles/main.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/CMakeFiles/final_automata.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/isajgordeev/Downloads/phsent.cpp
+iostream
+-
+cassert
+-
+
+/Users/isajgordeev/Downloads/phsentmain.cpp
+iostream
+-
+/Users/isajgordeev/Downloads/phsent.cpp
+-
+

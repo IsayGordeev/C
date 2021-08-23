@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="final_automata"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 C"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C/fast">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 C/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="D">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 D"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="D/fast">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 D/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DKA">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/DKA" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 DKA"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DKA/fast">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/DKA" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 DKA/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="final_automata">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/final_automata" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 final_automata"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="final_automata/fast">
+				<Option output="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/final_automata" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 final_automata/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/C.cpp">
+			<Option target="C"/>
+		</Unit>
+		<Unit filename="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/D.cpp">
+			<Option target="D"/>
+		</Unit>
+		<Unit filename="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/fin_auto.cpp">
+			<Option target="final_automata"/>
+		</Unit>
+		<Unit filename="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/main.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/uDKA.cpp">
+			<Option target="DKA"/>
+		</Unit>
+		<Unit filename="/Users/isajgordeev/Desktop/C++_Coding/Clion/final_automata/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,5 @@
+/Users/isajgordeev/Desktop/C++_Coding/Clion/lst_contest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/lst_contest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/lst_contest/cmake-build-debug/CMakeFiles/C.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/lst_contest/cmake-build-debug/CMakeFiles/B.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/lst_contest/cmake-build-debug/CMakeFiles/lst_contest.dir

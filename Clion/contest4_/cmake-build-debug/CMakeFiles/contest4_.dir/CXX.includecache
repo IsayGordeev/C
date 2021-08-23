@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/isajgordeev/Desktop/C++_Coding/Clion/contest4_/main.cpp
+cstdint
+-
+cmath
+-
+iostream
+-
+algorithm
+-
+iostream
+-
+numeric
+-
+

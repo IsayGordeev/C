@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="contest4_" targetName="Cpp" />
+      <config projectName="contest4_" targetName="123" />
+      <config projectName="contest4_" targetName="stack1" />
+      <config projectName="contest4_" targetName="F" />
+      <config projectName="contest4_" targetName="E" />
+      <config projectName="contest4_" targetName="D" />
+      <config projectName="contest4_" targetName="C" />
+      <config projectName="contest4_" targetName="B" />
+      <config projectName="contest4_" targetName="1234" />
+      <config projectName="contest4_" targetName="last_chance_for_B" />
+      <config projectName="contest4_" targetName="B2" />
+      <config projectName="contest4_" targetName="B1" />
+      <config projectName="contest4_" targetName="contest4_" />
+      <config projectName="contest4_" targetName="main-4" />
+      <config projectName="contest4_" targetName="main-5" />
+      <config projectName="contest4_" targetName="main_4" />
+      <config projectName="contest4_" targetName="B_for_ph" />
+      <config projectName="contest4_" targetName="1" />
+      <config projectName="contest4_" targetName="stack_" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="409fc7ba-44a0-4d45-8c26-6820c25c9ce6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1iF4YmpX1WrCR5rIm7xpKtpplqY" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.main_4">
+    <configuration name="1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest4_" TARGET_NAME="1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest4_" RUN_TARGET_NAME="1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="123" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest4_" TARGET_NAME="123" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest4_" RUN_TARGET_NAME="123">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1234" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest4_" TARGET_NAME="1234" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest4_" RUN_TARGET_NAME="1234">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest4_" TARGET_NAME="B" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest4_" RUN_TARGET_NAME="B">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest4_" TARGET_NAME="B1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest4_" RUN_TARGET_NAME="B1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest4_" TARGET_NAME="B2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest4_" RUN_TARGET_NAME="B2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B_for_ph" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest4_" TARGET_NAME="B_for_ph" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest4_" RUN_TARGET_NAME="B_for_ph">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest4_" TARGET_NAME="C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest4_" RUN_TARGET_NAME="C">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest4_" TARGET_NAME="Cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest4_" RUN_TARGET_NAME="Cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest4_" TARGET_NAME="D" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest4_" RUN_TARGET_NAME="D">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest4_" TARGET_NAME="E" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest4_" RUN_TARGET_NAME="E">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest4_" TARGET_NAME="F" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest4_" RUN_TARGET_NAME="F">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="contest4_" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest4_" TARGET_NAME="contest4_" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest4_" RUN_TARGET_NAME="contest4_">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="last_chance_for_B" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest4_" TARGET_NAME="last_chance_for_B" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest4_" RUN_TARGET_NAME="last_chance_for_B">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main-4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest4_" TARGET_NAME="main-4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest4_" RUN_TARGET_NAME="main-4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main-5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest4_" TARGET_NAME="main-5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest4_" RUN_TARGET_NAME="main-5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main_4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest4_" TARGET_NAME="main_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest4_" RUN_TARGET_NAME="main_4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stack1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest4_" TARGET_NAME="stack1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest4_" RUN_TARGET_NAME="stack1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stack_" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contest4_" TARGET_NAME="stack_" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contest4_" RUN_TARGET_NAME="stack_">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.1" />
+      <item itemvalue="CMake Application.123" />
+      <item itemvalue="CMake Application.1234" />
+      <item itemvalue="CMake Application.B" />
+      <item itemvalue="CMake Application.B1" />
+      <item itemvalue="CMake Application.B2" />
+      <item itemvalue="CMake Application.B_for_ph" />
+      <item itemvalue="CMake Application.C" />
+      <item itemvalue="CMake Application.contest4_" />
+      <item itemvalue="CMake Application.Cpp" />
+      <item itemvalue="CMake Application.D" />
+      <item itemvalue="CMake Application.E" />
+      <item itemvalue="CMake Application.F" />
+      <item itemvalue="CMake Application.last_chance_for_B" />
+      <item itemvalue="CMake Application.main-4" />
+      <item itemvalue="CMake Application.main-5" />
+      <item itemvalue="CMake Application.main_4" />
+      <item itemvalue="CMake Application.stack1" />
+      <item itemvalue="CMake Application.stack_" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="409fc7ba-44a0-4d45-8c26-6820c25c9ce6" name="Default Changelist" comment="" />
+      <created>1601490055949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601490055949</updated>
+      <workItem from="1601490057488" duration="1329000" />
+      <workItem from="1601491449965" duration="18778000" />
+      <workItem from="1601533141211" duration="1109000" />
+      <workItem from="1603313176738" duration="7000" />
+      <workItem from="1621457656670" duration="546000" />
+      <workItem from="1621539236325" duration="2589000" />
+      <workItem from="1621613536657" duration="1091000" />
+      <workItem from="1621685857748" duration="2573000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

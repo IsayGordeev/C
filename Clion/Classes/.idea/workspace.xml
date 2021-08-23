@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="untitled1" targetName="vector-1" />
+      <config projectName="untitled1" targetName="second_problem" />
+      <config projectName="untitled1" targetName="Complex" />
+      <config projectName="untitled1" targetName="untitled1" />
+      <config projectName="untitled1" targetName="phsent" />
+      <config projectName="untitled1" targetName="vector-s" />
+      <config projectName="untitled1" targetName="vector_container" />
+      <config projectName="untitled1" targetName="new_Vector" />
+      <config projectName="untitled1" targetName="complex_nums" />
+      <config projectName="untitled1" targetName="vector" />
+      <config projectName="untitled1" targetName="vector-s-main" />
+      <config projectName="untitled1" targetName="hometask_vector" />
+      <config projectName="untitled1" targetName="D" />
+      <config projectName="untitled1" targetName="phsentmain" />
+      <config projectName="untitled1" targetName="vector-main" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9bfba9eb-f41c-4652-a9f2-c2a30107cc81" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1hmGbI4a8RnGzw8A6YT3yhWq85Q" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.complex_nums">
+    <configuration name="Complex" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="Complex" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="Complex">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="D" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="D">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="complex_nums" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="complex_nums" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="complex_nums">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hometask_vector" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="hometask_vector" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="hometask_vector">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="new_Vector" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="new_Vector" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="new_Vector">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="phsent" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="phsent" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="phsent">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="phsentmain" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="phsentmain" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="phsentmain">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="second_problem" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="second_problem" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="second_problem">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="untitled1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="untitled1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="untitled1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vector-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="vector-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="vector-1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vector-main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="vector-main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="vector-main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vector-s-main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="vector-s-main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="vector-s-main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vector-s" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="vector-s" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="vector-s">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vector" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="vector" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="vector">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vector_container" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="vector_container" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="vector_container">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Complex" />
+      <item itemvalue="CMake Application.complex_nums" />
+      <item itemvalue="CMake Application.D" />
+      <item itemvalue="CMake Application.hometask_vector" />
+      <item itemvalue="CMake Application.new_Vector" />
+      <item itemvalue="CMake Application.phsent" />
+      <item itemvalue="CMake Application.phsentmain" />
+      <item itemvalue="CMake Application.second_problem" />
+      <item itemvalue="CMake Application.untitled1" />
+      <item itemvalue="CMake Application.vector" />
+      <item itemvalue="CMake Application.vector-1" />
+      <item itemvalue="CMake Application.vector-main" />
+      <item itemvalue="CMake Application.vector-s" />
+      <item itemvalue="CMake Application.vector-s-main" />
+      <item itemvalue="CMake Application.vector_container" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bfba9eb-f41c-4652-a9f2-c2a30107cc81" name="Default Changelist" comment="" />
+      <created>1600608924243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600608924243</updated>
+      <workItem from="1600608926857" duration="558000" />
+      <workItem from="1600609533593" duration="73000" />
+      <workItem from="1600609617773" duration="8270000" />
+      <workItem from="1600637995318" duration="137000" />
+      <workItem from="1600638341685" duration="15000" />
+      <workItem from="1600639721774" duration="7000" />
+      <workItem from="1600639783816" duration="1349000" />
+      <workItem from="1600682570751" duration="3826000" />
+      <workItem from="1600700752042" duration="11000" />
+      <workItem from="1600728648934" duration="910000" />
+      <workItem from="1600871545349" duration="350000" />
+      <workItem from="1600882223672" duration="1575000" />
+      <workItem from="1600883973259" duration="217000" />
+      <workItem from="1600888919806" duration="334000" />
+      <workItem from="1600889612414" duration="10000" />
+      <workItem from="1600891064160" duration="319000" />
+      <workItem from="1600896741902" duration="4732000" />
+      <workItem from="1600908024599" duration="1741000" />
+      <workItem from="1600926382152" duration="1187000" />
+      <workItem from="1600930077572" duration="2257000" />
+      <workItem from="1600937435959" duration="1336000" />
+      <workItem from="1601059469147" duration="1801000" />
+      <workItem from="1601466505199" duration="370000" />
+      <workItem from="1601467438855" duration="2428000" />
+      <workItem from="1603756862014" duration="557000" />
+      <workItem from="1603882835944" duration="3000" />
+      <workItem from="1621164810775" duration="990000" />
+      <workItem from="1621457467460" duration="99000" />
+      <workItem from="1621613259945" duration="39000" />
+      <workItem from="1621613301981" duration="6000" />
+      <workItem from="1621613417185" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

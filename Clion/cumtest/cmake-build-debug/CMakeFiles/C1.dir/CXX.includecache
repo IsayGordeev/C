@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/isajgordeev/Desktop/C++_Coding/Clion/cumtest/C1.cpp
+iostream
+-
+cmath
+-
+vector
+-
+string
+-
+map
+-
+algorithm
+-
+

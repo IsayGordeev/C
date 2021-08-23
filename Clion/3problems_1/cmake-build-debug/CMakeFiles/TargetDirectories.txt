@@ -1,0 +1,9 @@
+/Users/isajgordeev/Desktop/C++_Coding/Clion/3problems_1/cmake-build-debug/CMakeFiles/A.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/3problems_1/cmake-build-debug/CMakeFiles/b.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/3problems_1/cmake-build-debug/CMakeFiles/123.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/3problems_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/3problems_1/cmake-build-debug/CMakeFiles/deyksr_algorythm.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/3problems_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/3problems_1/cmake-build-debug/CMakeFiles/polish_notation.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/3problems_1/cmake-build-debug/CMakeFiles/A_Saveliy.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/3problems_1/cmake-build-debug/CMakeFiles/3problems_1.dir

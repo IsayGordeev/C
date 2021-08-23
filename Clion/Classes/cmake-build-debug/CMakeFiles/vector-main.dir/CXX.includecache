@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/isajgordeev/Desktop/C++_Coding/Clion/Classes/vector-main.cpp
+iostream
+-
+vector_container.cpp
+/Users/isajgordeev/Desktop/C++_Coding/Clion/Classes/vector_container.cpp
+
+/Users/isajgordeev/Desktop/C++_Coding/Clion/Classes/vector_container.cpp
+iostream
+-
+cassert
+-
+

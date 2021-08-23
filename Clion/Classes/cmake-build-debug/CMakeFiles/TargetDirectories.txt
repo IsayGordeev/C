@@ -1,0 +1,17 @@
+/Users/isajgordeev/Desktop/C++_Coding/Clion/Classes/cmake-build-debug/CMakeFiles/phsentmain.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/Classes/cmake-build-debug/CMakeFiles/Complex.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/Classes/cmake-build-debug/CMakeFiles/vector.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/Classes/cmake-build-debug/CMakeFiles/vector-s-main.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/Classes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/Classes/cmake-build-debug/CMakeFiles/phsent.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/Classes/cmake-build-debug/CMakeFiles/hometask_vector.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/Classes/cmake-build-debug/CMakeFiles/vector-s.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/Classes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/Classes/cmake-build-debug/CMakeFiles/D.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/Classes/cmake-build-debug/CMakeFiles/vector-main.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/Classes/cmake-build-debug/CMakeFiles/vector-1.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/Classes/cmake-build-debug/CMakeFiles/second_problem.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/Classes/cmake-build-debug/CMakeFiles/new_Vector.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/Classes/cmake-build-debug/CMakeFiles/vector_container.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/Classes/cmake-build-debug/CMakeFiles/complex_nums.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/Classes/cmake-build-debug/CMakeFiles/untitled1.dir

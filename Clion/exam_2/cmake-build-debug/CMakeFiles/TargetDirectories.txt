@@ -1,0 +1,8 @@
+/Users/isajgordeev/Desktop/C++_Coding/Clion/exam_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/exam_2/cmake-build-debug/CMakeFiles/123.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/exam_2/cmake-build-debug/CMakeFiles/exam_2.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/exam_2/cmake-build-debug/CMakeFiles/A.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/exam_2/cmake-build-debug/CMakeFiles/C.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/exam_2/cmake-build-debug/CMakeFiles/D.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/exam_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/exam_2/cmake-build-debug/CMakeFiles/AA.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/isajgordeev/Desktop/C++_Coding/Clion/Classes/subvector.h
+iostream
+-
+memory
+-
+
+/Users/isajgordeev/Desktop/C++_Coding/Clion/Classes/vector-s-main.cpp
+iostream
+-
+subvector.h
+/Users/isajgordeev/Desktop/C++_Coding/Clion/Classes/subvector.h
+

@@ -1,0 +1,13 @@
+/Users/isajgordeev/Desktop/C++_Coding/Clion/task/cmake-build-debug/CMakeFiles/qwe.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/task/cmake-build-debug/CMakeFiles/A.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/task/cmake-build-debug/CMakeFiles/awdwa.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/task/cmake-build-debug/CMakeFiles/rbk.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/task/cmake-build-debug/CMakeFiles/123.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/task/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/task/cmake-build-debug/CMakeFiles/D.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/task/cmake-build-debug/CMakeFiles/task.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/task/cmake-build-debug/CMakeFiles/awd.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/task/cmake-build-debug/CMakeFiles/E1.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/task/cmake-build-debug/CMakeFiles/1234.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/task/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/isajgordeev/Desktop/C++_Coding/Clion/task/cmake-build-debug/CMakeFiles/E.dir

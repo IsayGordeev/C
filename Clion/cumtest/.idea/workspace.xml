@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="cumtest" targetName="A_Saveliy" />
+      <config projectName="cumtest" targetName="B" />
+      <config projectName="cumtest" targetName="AAA" />
+      <config projectName="cumtest" targetName="cumtest" />
+      <config projectName="cumtest" targetName="AA" />
+      <config projectName="cumtest" targetName="stringgen" />
+      <config projectName="cumtest" targetName="C1" />
+      <config projectName="cumtest" targetName="D" />
+      <config projectName="cumtest" targetName="C" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7198402-052f-47f7-9126-e0e046a059a5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1iGZxzX2kztQkZY0YO5c3A0GWul" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.A_Saveliy">
+    <configuration name="AA" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cumtest" TARGET_NAME="AA" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cumtest" RUN_TARGET_NAME="AA">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AAA" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cumtest" TARGET_NAME="AAA" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cumtest" RUN_TARGET_NAME="AAA">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A_Saveliy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cumtest" TARGET_NAME="A_Saveliy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cumtest" RUN_TARGET_NAME="A_Saveliy">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cumtest" TARGET_NAME="B" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cumtest" RUN_TARGET_NAME="B">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cumtest" TARGET_NAME="C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cumtest" RUN_TARGET_NAME="C">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cumtest" TARGET_NAME="C1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cumtest" RUN_TARGET_NAME="C1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cumtest" TARGET_NAME="D" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cumtest" RUN_TARGET_NAME="D">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cumtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cumtest" TARGET_NAME="cumtest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cumtest" RUN_TARGET_NAME="cumtest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stringgen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cumtest" TARGET_NAME="stringgen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cumtest" RUN_TARGET_NAME="stringgen">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.A_Saveliy" />
+      <item itemvalue="CMake Application.AA" />
+      <item itemvalue="CMake Application.AAA" />
+      <item itemvalue="CMake Application.B" />
+      <item itemvalue="CMake Application.C" />
+      <item itemvalue="CMake Application.C1" />
+      <item itemvalue="CMake Application.cumtest" />
+      <item itemvalue="CMake Application.D" />
+      <item itemvalue="CMake Application.stringgen" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7198402-052f-47f7-9126-e0e046a059a5" name="Default Changelist" comment="" />
+      <created>1601536139748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601536139748</updated>
+      <workItem from="1601536141224" duration="6412000" />
+      <workItem from="1601767333322" duration="3047000" />
+      <workItem from="1601840690316" duration="369000" />
+      <workItem from="1602113994160" duration="14410000" />
+      <workItem from="1602452938977" duration="2296000" />
+      <workItem from="1602514102587" duration="142000" />
+      <workItem from="1602742274314" duration="1421000" />
+      <workItem from="1602762670552" duration="982000" />
+      <workItem from="1602763672962" duration="18000" />
+      <workItem from="1603313191003" duration="494000" />
+      <workItem from="1603313786030" duration="75000" />
+      <workItem from="1603319007597" duration="607000" />
+      <workItem from="1603329299906" duration="4183000" />
+      <workItem from="1603335476034" duration="597000" />
+      <workItem from="1603756841859" duration="889000" />
+      <workItem from="1621164794140" duration="13000" />
+      <workItem from="1621613364444" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

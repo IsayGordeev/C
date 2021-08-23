@@ -1,0 +1,4 @@
+/Users/isajgordeev/Desktop/C++Coding/Clion/Problems/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/isajgordeev/Desktop/C++Coding/Clion/Problems/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/isajgordeev/Desktop/C++Coding/Clion/Problems/cmake-build-debug/CMakeFiles/ph.dir
+/Users/isajgordeev/Desktop/C++Coding/Clion/Problems/cmake-build-debug/CMakeFiles/equation.dir

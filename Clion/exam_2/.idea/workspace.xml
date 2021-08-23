@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="exam_2" targetName="C" />
+      <config projectName="exam_2" targetName="123" />
+      <config projectName="exam_2" targetName="D" />
+      <config projectName="exam_2" targetName="exam_2" />
+      <config projectName="exam_2" targetName="AA" />
+      <config projectName="exam_2" targetName="A" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c662fc8-13cf-44d2-9e09-9f3c5a933f12" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1lPuyuOTbtgnACl9mkbWBv8phr1" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.C">
+    <configuration name="123" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exam_2" TARGET_NAME="123" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exam_2" RUN_TARGET_NAME="123">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exam_2" TARGET_NAME="A" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exam_2" RUN_TARGET_NAME="A">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AA" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exam_2" TARGET_NAME="AA" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exam_2" RUN_TARGET_NAME="AA">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exam_2" TARGET_NAME="C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exam_2" RUN_TARGET_NAME="C">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exam_2" TARGET_NAME="D" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exam_2" RUN_TARGET_NAME="D">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exam_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exam_2" TARGET_NAME="exam_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exam_2" RUN_TARGET_NAME="exam_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.123" />
+      <item itemvalue="CMake Application.A" />
+      <item itemvalue="CMake Application.AA" />
+      <item itemvalue="CMake Application.C" />
+      <item itemvalue="CMake Application.D" />
+      <item itemvalue="CMake Application.exam_2" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c662fc8-13cf-44d2-9e09-9f3c5a933f12" name="Default Changelist" comment="" />
+      <created>1607511304409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607511304409</updated>
+      <workItem from="1607511307232" duration="6016000" />
+      <workItem from="1607589366217" duration="20000" />
+      <workItem from="1607881805644" duration="173000" />
+      <workItem from="1607882012813" duration="7789000" />
+      <workItem from="1607949967052" duration="5845000" />
+      <workItem from="1608057130017" duration="7000" />
+      <workItem from="1608057187519" duration="1289000" />
+      <workItem from="1608212443788" duration="5000" />
+      <workItem from="1620981761925" duration="164000" />
+      <workItem from="1620982219619" duration="460000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

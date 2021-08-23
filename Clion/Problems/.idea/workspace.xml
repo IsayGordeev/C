@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="untitled" targetName="ph" />
+      <config projectName="untitled" targetName="equation" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90e49ace-30dc-4447-b971-20fca28a0f20" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/bundle_map_problesm.cpp" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/method.cpp" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1eEWoHl43kmWkHNbVh8enK1xi7C" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.equation">
+    <configuration name="equation" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="equation" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled" RUN_TARGET_NAME="equation">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ph" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="ph" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled" RUN_TARGET_NAME="ph">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.equation" />
+      <item itemvalue="CMake Application.ph" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90e49ace-30dc-4447-b971-20fca28a0f20" name="Default Changelist" comment="" />
+      <created>1593887405756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593887405756</updated>
+      <workItem from="1593887409523" duration="9943000" />
+      <workItem from="1594024882285" duration="108000" />
+      <workItem from="1594025072557" duration="59000" />
+      <workItem from="1594025584562" duration="33000" />
+      <workItem from="1594026747287" duration="95000" />
+      <workItem from="1594027473288" duration="1861000" />
+      <workItem from="1594313779898" duration="12028000" />
+      <workItem from="1594486560426" duration="1870000" />
+      <workItem from="1594543464629" duration="6905000" />
+      <workItem from="1594640970018" duration="439000" />
+      <workItem from="1594641652015" duration="3834000" />
+      <workItem from="1594755927901" duration="3078000" />
+      <workItem from="1594820912412" duration="139000" />
+      <workItem from="1594906800255" duration="5671000" />
+      <workItem from="1595088081212" duration="57000" />
+      <workItem from="1595089706648" duration="2930000" />
+      <workItem from="1595092873502" duration="3000" />
+      <workItem from="1595359192527" duration="16381000" />
+      <workItem from="1595422036886" duration="42000" />
+      <workItem from="1599142347333" duration="9645000" />
+      <workItem from="1599213637551" duration="547000" />
+      <workItem from="1599248945410" duration="603000" />
+      <workItem from="1599302359315" duration="2935000" />
+      <workItem from="1599718015811" duration="5851000" />
+      <workItem from="1599726663421" duration="2593000" />
+      <workItem from="1599935393011" duration="2644000" />
+      <workItem from="1600036078457" duration="2875000" />
+      <workItem from="1600337111616" duration="121000" />
+      <workItem from="1600439372919" duration="40000" />
+      <workItem from="1600608248864" duration="649000" />
+      <workItem from="1600638369623" duration="25000" />
+      <workItem from="1600639758088" duration="10000" />
+      <workItem from="1600639777756" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

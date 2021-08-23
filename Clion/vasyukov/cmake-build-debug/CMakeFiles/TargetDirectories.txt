@@ -1,0 +1,3 @@
+/Users/isajgordeev/Desktop/C++Coding/Clion/vasyukov/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/isajgordeev/Desktop/C++Coding/Clion/vasyukov/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/isajgordeev/Desktop/C++Coding/Clion/vasyukov/cmake-build-debug/CMakeFiles/vasyukov.dir

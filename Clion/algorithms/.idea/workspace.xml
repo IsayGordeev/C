@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="algorithms" targetName="ad" />
+      <config projectName="algorithms" targetName="RBT" />
+      <config projectName="algorithms" targetName="RBT-3" />
+      <config projectName="algorithms" targetName="RBT-2" />
+      <config projectName="algorithms" targetName="goblins" />
+      <config projectName="algorithms" targetName="algorithms" />
+      <config projectName="algorithms" targetName="foursum" />
+      <config projectName="algorithms" targetName="123" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="893064b8-e381-4b97-8872-7bfe9ba21755" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1jVqqFj7tywGIYbhJePyjOSKdGF" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.goblins">
+    <configuration name="123" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithms" TARGET_NAME="123" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorithms" RUN_TARGET_NAME="123">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RBT-2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithms" TARGET_NAME="RBT-2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorithms" RUN_TARGET_NAME="RBT-2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RBT-3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithms" TARGET_NAME="RBT-3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorithms" RUN_TARGET_NAME="RBT-3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RBT" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithms" TARGET_NAME="RBT" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorithms" RUN_TARGET_NAME="RBT">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ad" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithms" TARGET_NAME="ad" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorithms" RUN_TARGET_NAME="ad">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="algorithms" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithms" TARGET_NAME="algorithms" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorithms" RUN_TARGET_NAME="algorithms">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="foursum" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithms" TARGET_NAME="foursum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorithms" RUN_TARGET_NAME="foursum">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="goblins" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorithms" TARGET_NAME="goblins" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorithms" RUN_TARGET_NAME="goblins">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.123" />
+      <item itemvalue="CMake Application.ad" />
+      <item itemvalue="CMake Application.algorithms" />
+      <item itemvalue="CMake Application.foursum" />
+      <item itemvalue="CMake Application.goblins" />
+      <item itemvalue="CMake Application.RBT" />
+      <item itemvalue="CMake Application.RBT-2" />
+      <item itemvalue="CMake Application.RBT-3" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="893064b8-e381-4b97-8872-7bfe9ba21755" name="Default Changelist" comment="" />
+      <created>1603899795769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603899795769</updated>
+      <workItem from="1603899798601" duration="8498000" />
+      <workItem from="1604541006630" duration="740000" />
+      <workItem from="1605117754060" duration="813000" />
+      <workItem from="1605118965412" duration="805000" />
+      <workItem from="1605163446446" duration="21000" />
+      <workItem from="1605757982473" duration="8283000" />
+      <workItem from="1605768160940" duration="3306000" />
+      <workItem from="1605881282716" duration="32000" />
+      <workItem from="1606352899868" duration="5450000" />
+      <workItem from="1606957209934" duration="9844000" />
+      <workItem from="1607347585643" duration="685000" />
+      <workItem from="1608212452926" duration="919000" />
+      <workItem from="1608480532608" duration="2191000" />
+      <workItem from="1612994497789" duration="15000" />
+      <workItem from="1615672121409" duration="1633000" />
+      <workItem from="1617541947980" duration="465000" />
+      <workItem from="1617542446182" duration="81000" />
+      <workItem from="1617542616882" duration="2037000" />
+      <workItem from="1620979172384" duration="2325000" />
+      <workItem from="1620981967568" duration="243000" />
+      <workItem from="1620982731702" duration="761000" />
+      <workItem from="1621164743119" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
